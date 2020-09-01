@@ -188,7 +188,9 @@ img {
   border-bottom: 1px dashed #4dbfd9;
 }
 
-.skills__main {
+.skills__main,
+.examples__main,
+.experience__main{
   margin-top: 3.5rem;
   width: 100%;
   height: auto;
@@ -221,6 +223,7 @@ img {
   font-size: 1.3rem;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
+  color: #4dbfd9;
 }
 
 .skills_name_group {
@@ -239,4 +242,30 @@ img {
   background: #4dbfd9;
   display: inline-block;
   margin-right: 0.5rem;
+}
+
+.experience_text_box {
+  width: 100%;
+  display: grid;
+  grid: 'company experience' / 2fr 3fr;
+  column-gap: 1.5rem;
+}
+
+.company {
+  grid-area: company;
+}
+
+.experience_text {
+  grid-area: experience;
+}
+
+.title_company {
+  font-size: 1.3rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+.name_company {
+  font-family: 'Balthazar', 'Roboto', sans-serif;
+  margin-top: 1rem;
 }
