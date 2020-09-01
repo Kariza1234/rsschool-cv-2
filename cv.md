@@ -56,3 +56,7 @@
 * 2018 - Javascript and interfaces courses - from **learn.javascript.ru**
 * 2020 - Interface Development: Layout and JavaScript Specialization from **Moscow Institute of Physics and Technology, Yandex**
 > * present time - **RSSchool**
+
+## **English**
+
+> * B1 Threshold or intermediate, since 2018 English language courses in American-English school
