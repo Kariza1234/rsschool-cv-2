@@ -49,3 +49,10 @@
 * Coordinated a small team
 * Helped an education start-up gain traction and proceed to higher funding stages
 * (as an example, the work done: https://alpoliakov-songbird.netlify.app/)
+
+## **Education**
+
+> * 2001-2006 - **Donetsk National Technical University** - Mechanical Engineer
+* 2018 - Javascript and interfaces courses - from **learn.javascript.ru**
+* 2020 - Interface Development: Layout and JavaScript Specialization from **Moscow Institute of Physics and Technology, Yandex**
+> * present time - **RSSchool**
