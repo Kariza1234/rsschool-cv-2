@@ -34,3 +34,18 @@
 
 > ### Project management:
 * Trello
+
+## **Code examples (LATEST)**
+
+> https://github.com/alpoliakov/next-ts (setting up the environment using Next.JS + TS + Ant Design + Firebase)
+
+## **Experience**
+
+### Co-Founder & UI/UX designer
+> #### **AP digital agency**
+#### 2017-present time   Kyiv | Ukraine
+* I helped startups and other companies build apps. I hired a few juniors to work with me and we executed several projects.
+* Communicated with clients and designed UX/UI mockups
+* Coordinated a small team
+* Helped an education start-up gain traction and proceed to higher funding stages
+* (as an example, the work done: https://alpoliakov-songbird.netlify.app/)
