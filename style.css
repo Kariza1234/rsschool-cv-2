@@ -16,6 +16,7 @@ body {
   min-height: 100vh;
   position: relative;
   background: #e5e5e5;
+  padding-bottom: 4rem;
 }
 
 .header {
@@ -275,3 +276,99 @@ img {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
+.send_me {
+  display: grid;
+  grid:
+  'input-name  textarea-br'
+  'input-email textarea-br'
+  'input-phone textarea-br'
+  '     .        block    '
+  /   1fr         1fr;
+  gap: 1rem;
+}
+
+#input_name {
+  grid-area: input-name;
+}
+
+#input_email {
+  grid-area: input-email;
+}
+
+#input_phone {
+  grid-area: input-phone;
+}
+
+.btn__group {
+  grid-area: block;
+  text-align: end;
+}
+
+#textarea {
+  grid-area: textarea-br;
+  display: block;
+  width: 100%;
+  padding: 20px 20px;
+  font-size: 1.3rem;
+  line-height: 1.42857;
+  color: #555;
+  background-color: aliceblue;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+  -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.input_send {
+  display: block;
+  width: 100%;
+  padding: 12px 20px;
+  font-size: 1rem;
+  line-height: 1.42857;
+  color: #555;
+  background-color: aliceblue;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+  -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.input_send:focus,
+#textarea:focus {
+  box-shadow: 0 3px 5px 0 rgba(0,0,0,.15);
+  border-color: #4dbfd9;
+  outline: none;
+}
+
+.btn-form {
+  width: 160px;
+  display: inline-block;
+  background: 0 0;
+  cursor: pointer;
+  line-height: 1.5;
+  padding: 17px 0;
+  text-align: center;
+  overflow: hidden;
+  font-size: 1.2rem;
+  color: #404040;
+  border: 1px solid #404040;
+  border-radius: 2px;
+  font-family: 'Roboto', sans-serif;
+  transition: .8s cubic-bezier(.68,-.55,.265,1.55);
+  margin-right: 2rem;
+}
+
+.btn-form-green {
+  background: #4dbfd9;
+  color: aliceblue;
+}
+
+.btn-form:hover {
+  background: #3eb0ca;
+  box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+}
+
