@@ -1,2 +1,2 @@
 # Markdown & Git
-https://alpoliakov.github.io/rsschool-cv/cv
+https://alpoliakov.github.io/rsschool-cv/
