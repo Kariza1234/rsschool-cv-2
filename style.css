@@ -190,7 +190,10 @@ img {
 
 .skills__main,
 .examples__main,
-.experience__main{
+.experience__main,
+.education__main,
+.english__main,
+.send__main {
   margin-top: 3.5rem;
   width: 100%;
   height: auto;
@@ -253,10 +256,12 @@ img {
 
 .company {
   grid-area: company;
+  text-align: justify;
 }
 
 .experience_text {
   grid-area: experience;
+  text-align: justify;
 }
 
 .title_company {
@@ -268,4 +273,5 @@ img {
 .name_company {
   font-family: 'Balthazar', 'Roboto', sans-serif;
   margin-top: 1rem;
+  margin-bottom: 1rem;
 }
