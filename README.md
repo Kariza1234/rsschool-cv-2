@@ -1,2 +1,2 @@
 # rsschool-cv
-init: Initial commit
+https://alpoliakov.github.io/rsschool-cv/cv
