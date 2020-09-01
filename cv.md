@@ -53,8 +53,8 @@
 ## **Education**
 
 > * 2001-2006 - **Donetsk National Technical University** - Mechanical Engineer
-* 2018 - Javascript and interfaces courses - from **learn.javascript.ru**
-* 2020 - Interface Development: Layout and JavaScript Specialization from **Moscow Institute of Physics and Technology, Yandex**
+> * 2018 - Javascript and interfaces courses - from **learn.javascript.ru**
+> * 2020 - Interface Development: Layout and JavaScript Specialization from **Moscow Institute of Physics and Technology, Yandex**
 > * present time - **RSSchool**
 
 ## **English**
